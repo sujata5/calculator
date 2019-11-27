@@ -1,5 +1,6 @@
 # calculator
 calculator using Python
+
 first_number = float(input("Enter first number :"))
 op = input("Enter operator :")
 

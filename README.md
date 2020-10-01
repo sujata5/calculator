@@ -13,5 +13,7 @@ elif op == "*":
     print(first_number * second_number)
 elif op == "/":
     print(first_number / second_number)
+elif op == "%:
+    print(first_number % second_number)
 else:
     print("invalid operator")
